@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:darkslategrey;
+}
+
+.head {
+    background-color: gray;
+    color: black;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.myFoto {
+    width: 200px;
+    height: 300px;
+    margin-top: 10px;
+    border: 2px solid black;
+    margin-left: 10px;
+}
+
+.fotop {
+    font-size: 30px;
+    margin-left: 10px;
+
+
+}
+
+.Hp {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    
+}
+
+.Deneme {
+    font-size: 20px;
+    margin-left: 300px;
+}
+
+.foto1 {
+    width: 400px;
+    height: 250px;  
+}
+
+.foto2 {
+    width: 400px;
+    height: 250px;
+}
+
+.foto3 {
+    width: 400px;
+    height: 250px;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+footer {
+    background-color: gray;
+    padding: 20px;
+    text-align: center;
+}
+
+a {
+    background-color: gray;
+}
+
+.gh {
+    text-align: right;
+    margin: 5px;
+    color: black;
+}
+.ld {
+    text-align: center;
+    margin: 5px;
+    color: black;
+}
+.email {
+    text-align: center;
+    margin: 5px;
+    color: black;
+}
+
+.gh:hover {
+    color: blue;
+}
+.ld:hover {
+    color: blue;
+}
+.email:hover {
+    color: blue;
+}
